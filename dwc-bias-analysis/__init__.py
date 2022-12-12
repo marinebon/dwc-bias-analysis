@@ -1,8 +1,8 @@
 """
-projname package
+dwc-bias-analysis package
 Example Usage:
 # import the complete library
-import projname
+import dwc-bias-analysis
 """
 
 try:
